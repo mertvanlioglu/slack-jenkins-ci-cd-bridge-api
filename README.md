@@ -1,0 +1,10 @@
+.env Template
+
+JENKINS_URL=http://localhost:8080
+JENKINS_JOB=Unity-Windows-CI
+JENKINS_TOKEN=buildtoken123
+SLACK_SIGNING_SECRET=*
+PORT=3000
+JENKINS_USER=admin
+JENKINS_API_TOKEN=*
+JENKINS_JOB_PATH=job/Unity-Windows-CI
